@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @UthieleGuimaraes
-- 🌱 I’m currently learning python, PHP and SQL Server.
+- 👋 Hi, I’m  Uthiele Guimaraes
+- 🌱 I’m currently learning python and PHP.
 
 <!---
 UthieleGuim/UthieleGuim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
